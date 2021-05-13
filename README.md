@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @inksawesome
 - 👀 I’m interested in Websites, Automation, And MachineLearning.
-- 🌱 I’m currently learning Pyton and HTML.
+- 🌱 I’m currently learning Python and HTML.
 - 💞️ I’m looking to collaborate on my website.
-- 📫 How to reach me @inksawesome on instagram.
+- 📫 How to reach me: @inksawesome on instagram.
 
 <!---
 inksawesome/inksawesome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
