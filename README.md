@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @inksawesome
-- 👀 I’m interested in Websites, Automation, And MachineLearning.
+- 👀 I’m interested in WebDev, Automation, And WebScraping.
 - 🌱 I’m currently learning Python and HTML.
 - 💞️ I’m looking to collaborate on my website.
 - 📫 How to reach me: @inksawesome on instagram.
